@@ -16,7 +16,7 @@ Hull Form Generation
 * Created the ship’s lines plan using AutoCAD.
 * Generated and faired the 3D hull model in Maxsurf Modeler Advanced.
 * Applied NURBS surface modeling to obtain a smooth and realistic hull form.
-<img width="400" height="800" alt="IMG_1445" src="https://github.com/user-attachments/assets/6b4a240b-a390-4996-b7f5-09a386f10a76" />
+   <img width="400" height="600" alt="IMG_1445" src="https://github.com/user-attachments/assets/6b4a240b-a390-4996-b7f5-09a386f10a76" />
 
 ### Resistance Prediction
 * Implemented the Holtrop resistance prediction method in MATLAB.
@@ -47,14 +47,14 @@ Hull Form Generation
 * Developed a more environmentally friendly hull design.
 
 #### Hull Model Generated in Maxsurf
-<img width="825" height="463" alt="IMG_1451" src="https://github.com/user-attachments/assets/c75d03a1-288c-4b2c-8f97-bdabeee5f32b" />
+   <img width="600" height="350" alt="IMG_1451" src="https://github.com/user-attachments/assets/c75d03a1-288c-4b2c-8f97-bdabeee5f32b" />
 
 #### Comparison of Original and Improved Hull Forms
-<img width="819" height="1190" alt="IMG_1446" src="https://github.com/user-attachments/assets/35ebac06-291c-4bf3-b665-09c357b851fe" />
+   <img width="600" height="750" alt="IMG_1446" src="https://github.com/user-attachments/assets/35ebac06-291c-4bf3-b665-09c357b851fe" />
 
 #### MATLAB Resistance Calculation Results
-<img width="1169" height="617" alt="IMG_1449" src="https://github.com/user-attachments/assets/d26f9333-9ddb-4b23-bd20-67a5c556e501" />
-<img width="443" height="550" alt="IMG_100" src="https://github.com/user-attachments/assets/63eb8769-18a7-4ac9-a2dd-ae60de7cdc74" />
+  <img width="1000" height="600" alt="IMG_1449" src="https://github.com/user-attachments/assets/d26f9333-9ddb-4b23-bd20-67a5c556e501" />
+  <img width="400" height="550" alt="IMG_100" src="https://github.com/user-attachments/assets/63eb8769-18a7-4ac9-a2dd-ae60de7cdc74" />
 
   
 Conclusion
