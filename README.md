@@ -47,10 +47,15 @@ Hull Form Generation
 * Developed a more environmentally friendly hull design.
 
 #### Hull Model Generated in Maxsurf
-<img width="1169" height="617" alt="IMG_1449" src="https://github.com/user-attachments/assets/d26f9333-9ddb-4b23-bd20-67a5c556e501" />
-<img width="443" height="550" alt="IMG_1450" src="https://github.com/user-attachments/assets/63eb8769-18a7-4ac9-a2dd-ae60de7cdc74" />
 <img width="825" height="463" alt="IMG_1451" src="https://github.com/user-attachments/assets/c75d03a1-288c-4b2c-8f97-bdabeee5f32b" />
+
+#### Comparison of Original and Improved Hull Forms
 <img width="819" height="1190" alt="IMG_1446" src="https://github.com/user-attachments/assets/35ebac06-291c-4bf3-b665-09c357b851fe" />
+
+#### MATLAB Resistance Calculation Results
+<img width="1169" height="617" alt="IMG_1449" src="https://github.com/user-attachments/assets/d26f9333-9ddb-4b23-bd20-67a5c556e501" />
+<img width="443" height="550" alt="IMG_100" src="https://github.com/user-attachments/assets/63eb8769-18a7-4ac9-a2dd-ae60de7cdc74" />
+
   
 Conclusion
 
