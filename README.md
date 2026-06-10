@@ -16,7 +16,7 @@ Hull Form Generation
 * Created the ship’s lines plan using AutoCAD.
 * Generated and faired the 3D hull model in Maxsurf Modeler Advanced.
 * Applied NURBS surface modeling to obtain a smooth and realistic hull form.
-<img width="861" height="1325" alt="IMG_1445" src="https://github.com/user-attachments/assets/6b4a240b-a390-4996-b7f5-09a386f10a76" />
+<img width="400" height="800" alt="IMG_1445" src="https://github.com/user-attachments/assets/6b4a240b-a390-4996-b7f5-09a386f10a76" />
 
 ### Resistance Prediction
 * Implemented the Holtrop resistance prediction method in MATLAB.
