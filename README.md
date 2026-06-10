@@ -46,6 +46,10 @@ Hull Form Generation
 * Enhanced compliance with IMO Energy Efficiency Design Index (EEDI) objectives.
 * Developed a more environmentally friendly hull design.
 
+### Conclusion
+
+ The optimized hull form successfully reduced resistance and power consumption compared to the original Tzini design. The project demonstrates how hull form optimization, supported by MATLAB-based calculations and CFD validation, can contribute to sustainable ship design and improved maritime energy efficiency. 
+
 #### Hull Model Generated in Maxsurf
 <img width="600" height="350" alt="IMG_1451" src="https://github.com/user-attachments/assets/c75d03a1-288c-4b2c-8f97-bdabeee5f32b" />
 
@@ -54,9 +58,4 @@ Hull Form Generation
 
 #### MATLAB Resistance Calculation Results
 <img width="1000" height="600" alt="IMG_1449" src="https://github.com/user-attachments/assets/d26f9333-9ddb-4b23-bd20-67a5c556e501" />
-<img width="400" height="550" alt="IMG_100" src="https://github.com/user-attachments/assets/63eb8769-18a7-4ac9-a2dd-ae60de7cdc74" />
-
-  
-Conclusion
-
-The optimized hull form successfully reduced resistance and power consumption compared to the original Tzini design. The project demonstrates how hull form optimization, supported by MATLAB-based calculations and CFD validation, can contribute to sustainable ship design and improved maritime energy efficiency.  
+<img width="400" height="550" alt="IMG_100" src="https://github.com/user-attachments/assets/63eb8769-18a7-4ac9-a2dd-ae60de7cdc74" /> 
